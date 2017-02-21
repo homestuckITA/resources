@@ -52,7 +52,7 @@ $groen: #14ff23;
 
   .spacing {
     &.heart {
-      background: url('//www.mspaintadventures.com/images/candycorn_scratch.png') center center no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
+      background: url('http://www.mspaintadventures.com/images/candycorn_scratch.png') center center no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
       padding: 0 10px;
 
       img {display: none !important;}

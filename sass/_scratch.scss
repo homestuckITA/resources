@@ -10,13 +10,14 @@ $link: #2cff4b;
   #p#{$page} {
     background: $background !important;
 
+    #adventureprofile,
     .adventurepage {
       a {
-        color: $link important;
+        color: $link !important;
 
         &:hover,
         &:visited {
-          color: $link important;
+          color: $link !important;
         }
       }
     }
@@ -58,7 +59,7 @@ $link: #2cff4b;
 
     .spacing {
       &.heart {
-        background: url('//www.mspaintadventures.com/images/candycorn_scratch.png') center center no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
+        background: url('http://www.mspaintadventures.com/images/candycorn_scratch.png') center center no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
         padding: 0 10px;
 
         img {display: none !important;}
@@ -130,7 +131,7 @@ $link: #2cff4b;
 }
 
 @mixin nav-background($id) {
-  background: $background url('//www.mspaintadventures.com/storyfiles/hs2/scratch/room#{$id}.gif') top left no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
+  background: $background url('http://www.mspaintadventures.com/storyfiles/hs2/scratch/room#{$id}.gif') top left no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
 }
 
 // nav backgrounds (the header image)
@@ -214,7 +215,7 @@ $link: #2cff4b;
 // cascade
 #p4105 {
   nav {
-    background: $background url('://www.mspaintadventures.com/images/header_cascade.gif') top left no-repeat !important;
+    background: $background url('http://www.mspaintadventures.com/images/header_cascade.gif') top left no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
     padding-top: 180px !important;
   }
 }
