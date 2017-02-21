@@ -12,11 +12,11 @@ $link: #2cff4b;
 
     .adventurepage {
       a {
-        color: $link important;
+        color: $link !important;
 
         &:hover,
         &:visited {
-          color: $link important;
+          color: $link !important;
         }
       }
     }
