@@ -8,7 +8,7 @@ const sass = require('gulp-sass');
 gulp.task('default', function(){
   return gulp.src('sass/**/*.scss')
     .pipe(sass().on('error', sass.logError))
-    .pipe(cleanCSS({level: 2}))
+    .pipe(cleanCSS())
     .pipe(gulp.dest('css'));
 });
 
