@@ -1,0 +1,25 @@
+$def-border: #000;
+$def-text: #000;
+$def-box-shadow: #818181;
+
+#main {
+  overflow: hidden;
+  position: relative !important;
+}
+
+.ddimgtooltip {
+  background: none;
+  border: 0 solid $def-border;
+  box-shadow: 0, 0, 0, $def-box-shadow;
+  color: $def-text;
+  display: none;
+  padding: 4px;
+  position: absolute;
+  z-index: 2000;
+}
+
+@import 'scratch';
+@import 'snop';
+@import 'cascade';
+@import 'dota';
+
