@@ -12,5 +12,6 @@ function inject(selector, classes){
 }
 
 function injectThis(classes) {
+  console.log(this);
   $(this).parent().addClass(classes);
 }
