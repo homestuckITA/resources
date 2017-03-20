@@ -7,10 +7,10 @@ function inject(selector, classes){
   }
 
   $(function() {
-    $(selector).addClasses(classes);
+    $(selector).addClass(classes);
   })
 }
 
 function injectThis(classes) {
-  $(this).parent().addClasses(classes);
+  $(this).parent().addClass(classes);
 }
