@@ -23,3 +23,20 @@ $def-box-shadow: #818181;
 @import 'cascade';
 @import 'dota';
 
+.narration-box {
+  border: 3px solid #c3c3c3;
+  background-color: white;
+  box-sizing: border-box;
+  width: 600px;
+  text-align: left;
+  padding: calc(1em + 4px) calc(5% + 1.5px);
+  color: #000;
+
+  .caligrey {
+    color: #323232;
+  }
+
+  .caligreen {
+    color: #2ed73a;
+  }
+}
