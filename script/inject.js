@@ -10,4 +10,6 @@ if(window.inject === undefined){
       $target.addClass(classes);
     })
   }
+
+  console.log('Added inject() to window');
 }
