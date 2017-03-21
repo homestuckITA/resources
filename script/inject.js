@@ -1,6 +1,6 @@
 'use strict'
 
-if(window.inject === 'undefined'){
+if(window.inject === undefined){
   window.inject = function (classes, target) {
     var $target = $(target || document.currentScript);
 
