@@ -1,0 +1,187 @@
+// sass-lint:disable no-important,no-ids,nesting-depth
+
+@mixin empty-page($background, $width, $height) {
+  padding: 0 !important;
+
+  > * {
+    background: $background !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+  }
+
+  header,
+  footer,
+  #adventureprofile {
+    display: none !important;
+  }
+
+  #main,
+  #articleholder,
+  #slide,
+  #text1,
+  .panel,
+  embed {
+    background: $background !important;
+    border: 0 !important;
+    height: $height !important;
+    margin: 0 auto !important;
+    padding: 0 !important;
+    width: $width !important;
+  }
+
+  #slide {
+    .panel {
+      background: $background !important;
+      border: 0 !important;
+      height: $height !important;
+      margin: 0 auto !important;
+      padding: 0 !important;
+      width: $width !important;
+    }
+
+    > * {
+      &:not(.panel) {
+        display: none !important;
+      }
+    }
+  }
+}
+
+// snop
+#p4078 {
+  $bluh: #0707ec;
+  $pank: #f400ec;
+  $groen: #14ff23;
+
+  background: $bluh;
+  font-family: Comic Sans MS;
+  font-size: 14px;
+
+  #adventureprofile,
+  .adventurepage {
+    a {
+      font-family: Comic Sans MS;
+
+      &:hover,
+      &:visited {
+        font-family: Comic Sans MS;
+      }
+    }
+  }
+
+  #pagecommand {
+    font-family: Comic Sans MS;
+    font-size: 32px !important;
+    padding: 6px;
+    text-transform: uppercase;
+  }
+
+  #articleholder,
+  #container2,
+  #main {
+    background: $pank !important;
+    padding: 0;
+  }
+
+  #container1,
+  #container3,
+  #jumptoadventure,
+  #pagelist,
+  #viewall,
+  .adventurepage {
+    background: $groen !important;
+  }
+
+  #jumptoadventure {border-color: $groen}
+
+  header > * {
+    &:not(nav) { display: none !important;}
+  }
+
+  .spacing {
+    &.heart {
+      background: url('http://www.mspaintadventures.com/images/candycorn_scratch.png') center center no-repeat !important; // sass-lint:disable-line no-url-domains, no-url-protocols
+      padding: 0 10px;
+
+      img {display: none !important;}
+    }
+  }
+}
+
+// cascade
+#p4105 {
+  $background: #000;
+  $dark-grey: #262626;
+  $white-text: #fff;
+  $blue-text: #0066ff;
+
+  body {background: $background !important}
+
+  #articleholder,
+  #container2,
+  #main {
+    background: $dark-grey !important;
+  }
+
+  #main {
+    padding: 0 !important;
+    width: 960px !important;
+  }
+
+  #slide {width: 100% !important;}
+
+  #container1,
+  #container3,
+  #jumptoadventure,
+  #pagelist,
+  #viewall,
+  .adventurepage {
+    background: $dark-grey !important;
+    color: $white-text;
+  }
+
+  #jumptoadventure {border-color: $dark-grey}
+
+  header > * {
+    &:not(nav) { display: none !important;}
+  }
+
+  #pagecommand {display: none !important;}
+
+  embed {
+    height: 600px !important;
+    width: 950px !important;
+  }
+
+  nav {padding-top: 125px !important}
+
+  #imgtitle {
+    cursor: pointer;
+    left: 0;
+    position: absolute;
+    top: 0;
+  }
+
+  #adventureprofile,
+  .adventurepage {
+    a {
+      color: $blue-text !important;
+
+      &:hover,
+      &:visited {
+        color: $blue-text !important;
+      }
+    }
+  }
+}
+
+// dota
+#p4811 {
+  @include empty-page(#000, 950px, 650px);
+  background: #000;
+}
+
+// crowborn
+#p5488 {
+  @include empty-page(initial, 950px, 1160px);
+}

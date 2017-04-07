@@ -18,67 +18,6 @@ $def-box-shadow: #818181;
   z-index: 2000;
 }
 
+@import 'inject';
+@import 'one-offs';
 @import 'scratch';
-@import 'snop';
-@import 'cascade';
-@import 'dota';
-
-.narrative-prompt {
-  background-color: white;
-  border: 3px solid #c3c3c3;
-  box-sizing: border-box;
-  color: #000;
-  font-size: 14px;
-  padding: calc(1em + 4px) calc(5% + 1.5px) !important;
-  text-align: left;
-  width: 600px;
-
-  .caligrey {
-    color: #323232;
-  }
-
-  .caligreen {
-    color: #2ed73a;
-  }
-}
-
-@mixin empty-page($width, $height) {
-  header,
-  footer,
-  #adventureprofile {
-    display: none !important;
-  }
-
-  #main,
-  #articleholder,
-  #slide,
-  #text1,
-  .panel,
-  embed {
-    margin: 0 auto !important;
-    padding: 0 !important;
-    background: initial !important;
-    width: $width !important;
-    height: $height !important;
-  }
-
-  #slide {
-    .panel {
-      margin: 0 auto !important;
-      padding: 0 !important;
-      background: initial !important;
-      width: $width !important;
-      height: $height !important;
-    }
-
-    > * {
-      &:not(.panel) {
-        display: none !important;
-      }
-    }
-  }
-}
-
-.crowborn {
-  @include empty-page(950px, 1160px)
-}
