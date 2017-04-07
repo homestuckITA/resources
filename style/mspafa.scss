@@ -42,21 +42,33 @@ $def-box-shadow: #818181;
   }
 }
 
-.crowborn {
+@mixin empty-page($width, $height) {
   header,
   footer,
   #adventureprofile {
     display: none !important;
   }
 
+  #main,
+  #articleholder,
+  #slide,
+  #text1,
+  .panel,
+  embed {
+    margin: 0 auto !important;
+    padding: 0 !important;
+    background: initial !important;
+    width: $width !important;
+    height: $height !important;
+  }
+
   #slide {
     .panel {
-      // background: $background !important;
-      // border: 0 !important;
-      // height: 650px !important;
-      // margin: 0 auto !important;
-      // padding: 0 !important;
-      // width: 950px !important;
+      margin: 0 auto !important;
+      padding: 0 !important;
+      background: initial !important;
+      width: $width !important;
+      height: $height !important;
     }
 
     > * {
@@ -65,4 +77,8 @@ $def-box-shadow: #818181;
       }
     }
   }
+}
+
+.crowborn {
+  @include empty-page(950, 1160)
 }
