@@ -43,14 +43,20 @@ $def-box-shadow: #818181;
 }
 
 .crowborn {
+  header,
+  footer,
+  #adventureprofile {
+    display: none !important;
+  }
+
   #slide {
     .panel {
-      background: $background !important;
-      border: 0 !important;
-      height: 650px !important;
-      margin: 0 auto !important;
-      padding: 0 !important;
-      width: 950px !important;
+      // background: $background !important;
+      // border: 0 !important;
+      // height: 650px !important;
+      // margin: 0 auto !important;
+      // padding: 0 !important;
+      // width: 950px !important;
     }
 
     > * {
