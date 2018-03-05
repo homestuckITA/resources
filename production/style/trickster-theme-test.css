@@ -124,3 +124,8 @@
 .p1 #spcMainHolder #spcNewsHolder td > span.major {
     color: rgb(249, 253, 107) !important;
 }
+
+.p1 #slide {
+background-color: #ff73fd !important;
+
+}
