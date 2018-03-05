@@ -59,13 +59,13 @@
 
 .p1 .um {
     margin-top: 0px;
-    margin-left: -106px;
+    margin-left: -845px;
     position: absolute;
     overflow: hidden;
 }
 
 .p1 .umcontainer {
-    margin-bottom: 0px;
+    margin-bottom: 10px;
     overflow: hidden;
     background-color: transparent !important;
 }
@@ -131,7 +131,7 @@ background-color: #ff73fd !important;
 
 }
 
-.p1 #main {
+.p1 #container {
 background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif) !important;
 
 }
