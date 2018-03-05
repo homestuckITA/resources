@@ -127,11 +127,11 @@
 }
 
 .p1 #slide {
-background-color: #ff73fd !important;
+background-color: #ff73fd;
 
 }
 
-.p1 #container {
+.p1 #main {
 background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif) !important;
 
 }
