@@ -1,0 +1,126 @@
+.p1 body {
+    background-color: #000000;
+    background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/Z2.gif);
+    color: rgb(249, 253, 107) !important;
+}
+
+    .p1 .spoiler.open {
+        background-color: rgb(255, 115, 253) !important;
+    }
+
+    .p1 a:link {
+        color: rgb(255, 168, 0) !important;
+    }
+
+    .p1 a:visited {
+        color: rgb(255, 168, 0) !important;
+    }
+
+    .p1 a:active {
+        color: rgb(251, 6, 11) !important;
+    }
+
+    .p1 > #main {
+        background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif) !important;
+        padding: 0 5px 0px 5px !important;
+        padding-bottom: 20px !important;
+    }
+
+    .p1 #main header nav {
+        background-color: black !important;
+    }
+
+    .p1 > #main > #container > #slide {
+        background-color: rgb(255, 115, 253) !important;
+    }
+
+    .p1 .mspfalogo {
+        background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bannerframe2.gif) !important;
+        background-color: transparent !important;
+    }
+
+    .p1 .um * {
+        background-color: transparent !important;
+    }
+
+    .p5704-5767 .heart {
+        background-image: url(https://dl.dropboxusercontent.com/s/z14lmpvdlfmrvao/CandyCornItem.png) !important;
+    }
+
+.p1 .mspfalogo {
+    background-color: transparent !important;
+}
+
+.p1 footer {
+    position: absolute;
+    margin-top: 23px;
+}
+
+.p1 .um {
+    margin-top: 0px;
+    margin-left: -845px;
+    position: absolute;
+    overflow: hidden;
+}
+
+.p1 .umcontainer {
+    margin-bottom: 10px;
+    overflow: hidden;
+    background-color: transparent !important;
+}
+
+
+
+.p1 #spcMainHolder .spoiler.closed input[type="button"]:hover {
+    background-color: rgb(119, 119, 119) !important;
+}
+
+.p1 #spcMainHolder {
+    margin-top: 110px !important;
+    background-color: transparent !important;
+    color: rgb(249, 253, 107) !important;
+}
+
+.p1 #spcMainHolder #spcAdsHolder {
+    background-color: rgb(63, 224, 0) !important;
+}
+
+.p1 #spcMainHolder #spcAdsTopLine {
+    background-color: rgb(63, 224, 0) !important;
+}
+
+.p1 #spcMainHolder #spcAdsMiddleBox {
+    background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif) !important;
+}
+
+.p1 #spcMainHolder #spcLatestPagesHolder {
+    background-color: rgb(63, 224, 0) !important;
+}
+
+.p1 #spcMainHolder #spcLatestPagesTopLine {
+    background-color: rgb(63, 224, 0) !important;
+}
+
+.p1 #spcMainHolder #spcLatestPagesMiddleBox {
+    background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif) !important;
+}
+
+.p1 #spcMainHolder a:link {
+    color: rgb(251, 6, 11) !important;
+}
+
+.p1 #spcMainHolder a:visited{
+    color: rgb(255, 168, 0) !important;
+}
+
+.p1 #spcMainHolder #spcNewsHolder {
+    background-color: rgb(255, 115, 253) !important;
+}
+
+.p1 #spcMainHolder nav {
+    display: none;
+}
+
+.p1 #spcMainHolder #spcNewsHolder td > span.major {
+    color: rgb(249, 253, 107) !important;
+}
