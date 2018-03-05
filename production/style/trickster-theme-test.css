@@ -59,13 +59,12 @@
 
 .p1 .um {
     margin-top: 0px;
-    margin-left: -845px;
     position: absolute;
     overflow: hidden;
 }
 
 .p1 .umcontainer {
-    margin-bottom: 10px;
+    margin-bottom: 0px;
     overflow: hidden;
     background-color: transparent !important;
 }
