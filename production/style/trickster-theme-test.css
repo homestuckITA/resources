@@ -31,6 +31,7 @@
     }
 
     .p1 > #main > #container > #slide {
+        background-image: url(http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif) !important;
         background-color: rgb(255, 115, 253) !important;
     }
 
