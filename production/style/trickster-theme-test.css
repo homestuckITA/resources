@@ -1,6 +1,6 @@
 /* Trickster Mode Theme */
 body {
-    background: url("/images/Z2.gif");
+    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/Z2.gif");
     color: #f9fd6b;
 }
 a:link {
@@ -13,7 +13,7 @@ a:active {
     color: #ff0000;
 }
 #main {
-    background: url("/images/bluetile.gif");
+    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif");
 }
 #flashytitle {
     background-color: #ff73fd;
@@ -49,7 +49,7 @@ table.container > tbody > tr > td, table.container > tbody > tr > th {
     background-color: #ff73fd;
 /* Trickster Mode Theme */
 body {
-    background: url("/images/Z2.gif");
+    background: url("https://dl.dropboxusercontent.com/s/z14lmpvdlfmrvao/CandyCornItem.png");
     color: #f9fd6b;
 }
 a:link {
@@ -62,7 +62,7 @@ a:active {
     color: #ff0000;
 }
 #main {
-    background: url("/images/bluetile.gif");
+    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif");
 }
 #flashytitle {
     background-color: #ff73fd;
@@ -72,7 +72,7 @@ nav {
     color: #ffffff;
 }
 nav .heart {
-    background-image: url("/images/candyheart.png");
+    background-image: url("https://dl.dropboxusercontent.com/s/z14lmpvdlfmrvao/CandyCornItem.png");
 }
 #dialog {
     background-color: #ff73fd;
