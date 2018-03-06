@@ -255,3 +255,53 @@
     background: url(http://www.mspaintadventures.com/images/header_cascade.gif) top left no-repeat #000!important;
     padding-top: 180px!important
 }
+/* Trickster Mode Theme */
+
+.p5704-5767 body {
+    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/Z2.gif");
+    color: #f9fd6b;
+}
+.p5704-5767 a:link {
+    color: #fb060b;
+}
+.p5704-5767 a:visited {
+    color: #ffa800;
+}
+.p5704-5767 a:active {
+    color: #ff0000;
+}
+.p5704-5767 #main {
+    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif");
+}
+.p5704-5767 #flashytitle {
+    background-color: #ff73fd;
+}
+.p5704-5767 nav {
+    background-color: #000000;
+    color: #ffffff;
+}
+.p5704-5767 nav .heart {
+    background-image: url("https://dl.dropboxusercontent.com/s/z14lmpvdlfmrvao/CandyCornItem.png");
+}
+.p5704-5767 #dialog {
+    background-color: #ff73fd;
+}
+.p5704-5767 #dialog > div:nth-child(1) {
+    background-color: #3fe000;
+}
+.p5704-5767 .mspfalogo {
+    border-right-color: #3fe000;
+    background-color: #ff73fd;
+}
+.p5704-5767 table.container {
+    border-color: #3fe000;
+    background-color: #ff73fd;
+}
+.p5704-5767 table.container > tbody > tr > td, table.container > tbody > tr > th {
+    border-color: #3fe000;
+}
+.p5704-5767 #slide {
+    background-color: #ff73fd;
+}
+.p5704-5767 #info > span > .spoiler.open {
+    background-color: #ff73fd;
