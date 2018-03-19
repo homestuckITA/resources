@@ -305,3 +305,14 @@
 }
 .p5704-5767 #info > span > .spoiler.open {
     background-color: #ff73fd;
+
+}
+/*AUTHORLOG*/
+
+.authorlog {
+    width:536px;
+    padding: 17px 26px 17px 32px;
+    text-align: left;
+    border: 3px solid #c6c6c6;
+    background: white;
+}
