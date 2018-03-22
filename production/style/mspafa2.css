@@ -154,36 +154,6 @@
 .p4811 #slide>:not(.panel) {
     display: none!important
 }
-.p5488 {
-    padding: 0!important
-}
-.p5488>* {
-    background: initial!important;
-    margin: 0 auto!important;
-    padding: 0!important
-}
-.p5488 #adventureprofile,
-.p5488 footer,
-.p5488 header {
-    display: none!important
-}
-.p5488 #articleholder,
-.p5488 #main,
-.p5488 #slide,
-.p5488 #slide .panel,
-.p5488 #text1,
-.p5488 .panel,
-.p5488 embed {
-    background: initial!important;
-    border: 0!important;
-    height: 1160px!important;
-    margin: 0 auto!important;
-    padding: 0!important;
-    width: 950px!important
-}
-.p5488 #slide>:not(.panel) {
-    display: none!important
-}
 .p3760-4077 {
     background: #000!important
 }
@@ -318,12 +288,40 @@
 }
 /*DOUBLEPAGE*/
 
-.p5788-5925 .dleft, .p5788-5925 .dright {width: 650px; float: left; background: #EEEEEE; margin-top: 7px;}
-.p5788-5925 .dleft {margin-left: 165px}
-.p5788-5925 .dright {margin-right: 165px; float: right}
-.p5788-5925 #main, .p5788-5925 #slide {max-width: none; width: 1660px; margin: 0 auto; padding: 0; background: #c6c6c6}
-.p5788-5925 #command {display: none}
-.p5788-5925 .dleft #command, .p5788-5925 .dright #command {display: block}
-.p5788-5925 #foot { background: #EEEEEE; margin: 0 165px; padding: 0 10px}
-.p5788-5925 .dleft #foot, .p5788-5925 .dright #foot {margin: 0  20px!important; text-align: left}
+.p5788-5925 .dleft, .p5788-5925 .dright {
+    width: 650px; 
+    float: left; 
+    background: #EEEEEE; 
+    margin-top: 7px;
+}
+.p5788-5925 .dleft {
+    margin-left: 165px;
+}
+.p5788-5925 .dright {
+    margin-right: 165px;
+    float: right;
+}
+.p5788-5925 #main, .p5788-5925 #slide {
+    max-width: none; 
+    width: 1660px; 
+    margin: 0 auto; 
+    padding: 0; 
+    background: #c6c6c6;
+}
+.p5788-5925 #command {
+    display: none
+}
+.p5788-5925 .dleft #command, .p5788-5925 .dright #command {
+    display: block
+}
+.p5788-5925 #foot {
+    background: #EEEEEE;
+    margin: 0 165px;
+    padding: 0 10px
+}
+.p5788-5925 .dleft #foot, .p5788-5925 .dright #foot {
+    margin: 0  20px!important;
+    text-align: left;
+
+}
 
