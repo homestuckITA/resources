@@ -225,6 +225,14 @@
     background: url(http://www.mspaintadventures.com/images/header_cascade.gif) top left no-repeat #000!important;
     padding-top: 180px!important
 }
+
+/*Stretch through the page*/
+
+.p5488 #command { display: none }
+.p5488 #foot { display: none }
+.p5770 #command { display: none }
+.p5770 #foot { display: none }
+
 /* Trickster Mode Theme */
 
 .p5704-5767 body {
