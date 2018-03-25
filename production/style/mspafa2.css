@@ -228,12 +228,24 @@
 
 /*Stretch through the page*/
 
-.p5488 #command { display: none }
-.p5488 header > nav { display: none }
-.p5488 #foot { display: none }
-.p5770 #command { display: none }
-.p5770 header > nav { display: none }
-.p5770 #foot { display: none }
+.p5488 #command { 
+    display: none 
+}
+.p5488 header > nav { 
+    display: none 
+}
+.p5488 #foot { 
+    display: none 
+}
+.p5770 #command { 
+    display: none 
+}
+.p5770 header > nav { 
+    display: none 
+}
+.p5770 #foot { 
+    display: none 
+}
 
 /* Trickster Mode Theme */
 
