@@ -162,13 +162,13 @@
 .p3760-4077 #adventureprofile a:visited,
 .p3760-4077 .adventurepage a,
 .p3760-4077 .adventurepage a:hover,
-.p3760-4077 .adventurepage a:visited {
+.p3760-4077 .adventurepage a:visited,
 .p3760-4077 #container a,
 .p3760-4077 #container a:hover,
 .p3760-4077 #container a:visited,
 .p3760-4077 footer a,
 .p3760-4077 footer a:hover,
-.p3760-4077 footer a:visited{
+.p3760-4077 footer a:visited {
     color: #2cff4b!important;
 }
 
