@@ -154,8 +154,8 @@
 .p4811 #slide>:not(.panel) {
     display: none!important
 }
-.p3760-4077 {
-    main: #000!important
+.p3760-4077 body {
+    background: #000!important
 }
 .p3760-4077 #adventureprofile a,
 .p3760-4077 #adventureprofile a:hover,
