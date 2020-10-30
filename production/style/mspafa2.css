@@ -176,8 +176,10 @@
 .p3760-4077 #jumptoadventure,
 .p3760-4077 #pagelist,
 .p3760-4077 #viewall,
+.p3760-4077 #slide
+.p3760-4077 #info .spoiler.open
 .p3760-4077 .adventurepage {
-    background: #0e4603!important;
+    background-color: #0e4603!important;
     color: #fff
 }
 .p3760-4077 #jumptoadventure {
