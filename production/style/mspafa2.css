@@ -157,6 +157,9 @@
 .p3760-4077 body {
     background-color: #000!important;
 }
+.p3760-4077 #slide .spoiler.open {
+    background-color: #000!important;
+}
 .p3760-4077 #adventureprofile a,
 .p3760-4077 #adventureprofile a:hover,
 .p3760-4077 #adventureprofile a:visited,
