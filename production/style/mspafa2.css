@@ -154,64 +154,64 @@
 .p4811 #slide>:not(.panel) {
     display: none!important;
 }
-.p3760-4077 body {
+.p3761-4077 body {
     background-color: #000!important;
 }
-.p3760-4077 #slide .spoiler.open,
-.p3760-4077 #slide .spoiler.closed {
+.p3761-4077 #slide .spoiler.open,
+.p3761-4077 #slide .spoiler.closed {
     background-color: #000!important;
 }
-.p3760-4077 #adventureprofile a,
-.p3760-4077 #adventureprofile a:hover,
-.p3760-4077 #adventureprofile a:visited,
-.p3760-4077 .adventurepage a,
-.p3760-4077 .adventurepage a:hover,
-.p3760-4077 .adventurepage a:visited,
-.p3760-4077 #container a,
-.p3760-4077 #container a:hover,
-.p3760-4077 #container a:visited,
-.p3760-4077 footer a,
-.p3760-4077 footer a:hover,
-.p3760-4077 footer a:visited {
+.p3761-4077 #adventureprofile a,
+.p3761-4077 #adventureprofile a:hover,
+.p3761-4077 #adventureprofile a:visited,
+.p3761-4077 .adventurepage a,
+.p3761-4077 .adventurepage a:hover,
+.p3761-4077 .adventurepage a:visited,
+.p3761-4077 #container a,
+.p3761-4077 #container a:hover,
+.p3761-4077 #container a:visited,
+.p3761-4077 footer a,
+.p3761-4077 footer a:hover,
+.p3761-4077 footer a:visited {
     color: #2cff4b!important;
 }
 
-.p3760-4077 #articleholder,
-.p3760-4077 #container,
-.p3760-4077 #main {
+.p3761-4077 #articleholder,
+.p3761-4077 #container,
+.p3761-4077 #main {
     background: #082a00!important;
     padding: 0;
 }
-.p3760-4077 #container1,
-.p3760-4077 #container3,
-.p3760-4077 #jumptoadventure,
-.p3760-4077 #pagelist,
-.p3760-4077 #viewall,
-.p3760-4077 #slide,
-.p3760-4077 #info .spoiler.open,
-.p3760-4077 .adventurepage {
+.p3761-4077 #container1,
+.p3761-4077 #container3,
+.p3761-4077 #jumptoadventure,
+.p3761-4077 #pagelist,
+.p3761-4077 #viewall,
+.p3761-4077 #slide,
+.p3761-4077 #info .spoiler.open,
+.p3761-4077 .adventurepage {
     background-color: #0e4603!important;
     color: #fff;
 }
-.p3760-4077 #jumptoadventure {
+.p3761-4077 #jumptoadventure {
     border-color: #0e4603;
 }
-.p3760-4077 header>:not(nav) {
+.p3761-4077 header>:not(nav) {
     display: none!important;
 }
-.p3760-4077 nav a,
-.p3760-4077 nav a:hover,
-.p3760-4077 nav a:visited {
+.p3761-4077 nav a,
+.p3761-4077 nav a:hover,
+.p3761-4077 nav a:visited {
     color: #fff!important;
 }
-.p3760-4077 .spacing.heart {
+.p3761-4077 .spacing.heart {
     background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31dfd272-acc5-4e8f-8534-4b4f36b8da13/de7v4f8-b496b88f-fe30-48f5-8322-fec8aba7673e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzFkZmQyNzItYWNjNS00ZThmLTg1MzQtNGI0ZjM2YjhkYTEzXC9kZTd2NGY4LWI0OTZiODhmLWZlMzAtNDhmNS04MzIyLWZlYzhhYmE3NjczZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.IslvAengSJ0IINvqjvyU0zK16M3UDKHpta9ogmTpXSY) center center no-repeat!important;
     padding: 0 10px;
 }
-.p3760-4077 .spacing.heart img {
+.p3761-4077 .spacing.heart img {
     display: none!important;
 }
-.p3760-4077 nav {
+.p3761-4077 nav {
     padding-top: 180px!important;
 }
 .p4078 #container1,
@@ -222,7 +222,7 @@
     background: #0e4603!important;
     color: #fff
 }
-.p3760-3792 nav {
+.p3761-3792 nav {
     background: url(https://www.homestuck.com/images/storyfiles/hs2/scratch/room.gif) top left no-repeat #000!important;
 }
 .p3871-3997 nav {
