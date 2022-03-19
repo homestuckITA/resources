@@ -28,50 +28,50 @@
 .narrative-prompt .caligreen {
     color: #2ed73a
 }
-.p4078 {
+.p4079 {
     background: #0707ec;
     font-family: Comic Sans MS;
     font-size: 14px
 }
-.p4078 #adventureprofile a,
-.p4078 #adventureprofile a:hover,
-.p4078 #adventureprofile a:visited,
-.p4078 .adventurepage a,
-.p4078 .adventurepage a:hover,
-.p4078 .adventurepage a:visited {
+.p4079 #adventureprofile a,
+.p4079 #adventureprofile a:hover,
+.p4079 #adventureprofile a:visited,
+.p4079 .adventurepage a,
+.p4079 .adventurepage a:hover,
+.p4079 .adventurepage a:visited {
     font-family: Comic Sans MS
 }
-.p4078 #pagecommand {
+.p4079 #pagecommand {
     font-family: Comic Sans MS;
     font-size: 32px!important;
     padding: 6px;
     text-transform: uppercase
 }
-.p4078 #articleholder,
-.p4078 #container2,
-.p4078 #main {
+.p4079 #articleholder,
+.p4079 #container2,
+.p4079 #main {
     background: #f400ec!important;
     padding: 0
 }
-.p4078 #container1,
-.p4078 #container3,
-.p4078 #jumptoadventure,
-.p4078 #pagelist,
-.p4078 #viewall,
-.p4078 .adventurepage {
+.p4079 #container1,
+.p4079 #container3,
+.p4079 #jumptoadventure,
+.p4079 #pagelist,
+.p4079 #viewall,
+.p4079 .adventurepage {
     background: #14ff23!important
 }
-.p4078 #jumptoadventure {
+.p4079 #jumptoadventure {
     border-color: #14ff23
 }
-.p4078 header>:not(nav) {
+.p4079 header>:not(nav) {
     display: none!important
 }
-.p4078 .spacing.heart {
+.p4079 .spacing.heart {
     background: url(http://www.mspaintadventures.com/images/candycorn_scratch.png) center center no-repeat!important;
     padding: 0 10px
 }
-.p4078 .spacing.heart img {
+.p4079 .spacing.heart img {
     display: none!important
 }
 .p4105 body {
