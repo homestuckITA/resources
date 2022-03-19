@@ -184,51 +184,51 @@
 .p5488 #slide>:not(.panel) {
     display: none!important
 }
-.p3761-4077 {
+.p3761-4078 {
     background: #000!important
 }
-.p3761-4077 #adventureprofile a,
-.p3761-4077 #adventureprofile a:hover,
-.p3761-4077 #adventureprofile a:visited,
-.p3761-4077 .adventurepage a,
-.p3761-4077 .adventurepage a:hover,
-.p3761-4077 .adventurepage a:visited {
+.p3761-4078 #adventureprofile a,
+.p3761-4078 #adventureprofile a:hover,
+.p3761-4078 #adventureprofile a:visited,
+.p3761-4078 .adventurepage a,
+.p3761-4078 .adventurepage a:hover,
+.p3761-4078 .adventurepage a:visited {
     color: #2cff4b!important
 }
-.p3761-4077 #articleholder,
-.p3761-4077 #container2,
-.p3761-4077 #main {
+.p3761-4078 #articleholder,
+.p3761-4078 #container2,
+.p3761-4078 #main {
     background: #082a00!important;
     padding: 0
 }
-.p3761-4077 #container1,
-.p3761-4077 #container3,
-.p3761-4077 #jumptoadventure,
-.p3761-4077 #pagelist,
-.p3761-4077 #viewall,
-.p3761-4077 .adventurepage {
+.p3761-4078 #container1,
+.p3761-4078 #container3,
+.p3761-4078 #jumptoadventure,
+.p3761-4078 #pagelist,
+.p3761-4078 #viewall,
+.p3761-4078 .adventurepage {
     background: #0e4603!important;
     color: #fff
 }
-.p3761-4077 #jumptoadventure {
+.p3761-4078 #jumptoadventure {
     border-color: #0e4603
 }
-.p3761-4077 header>:not(nav) {
+.p3761-4078 header>:not(nav) {
     display: none!important
 }
-.p3761-4077 nav a,
-.p3761-4077 nav a:hover,
-.p3761-4077 nav a:visited {
+.p3761-4078 nav a,
+.p3761-4078 nav a:hover,
+.p3761-4078 nav a:visited {
     color: #fff!important
 }
-.p3761-4077 .spacing.heart {
+.p3761-4078 .spacing.heart {
     background: url(http://www.mspaintadventures.com/images/candycorn_scratch.png) center center no-repeat!important;
     padding: 0 10px
 }
-.p3761-4077 .spacing.heart img {
+.p3761-4078 .spacing.heart img {
     display: none!important
 }
-.p3761-4077 nav {
+.p3761-4078 nav {
     padding-top: 180px!important
 }
 .p4078 #container1,
