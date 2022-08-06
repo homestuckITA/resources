@@ -146,13 +146,10 @@
 .p4812 embed {
     background: #000!important;
     border: 0!important;
-    height: 650px!important;
+    height: 750px!important;
     margin: 0 auto!important;
     padding: 0!important;
     width: 950px!important;
-}
-.p4812 #slide>:not(.panel) {
-    display: none!important;
 }
 .p3761-4077 body {
     background-color: #000!important;
