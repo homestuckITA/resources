@@ -123,27 +123,27 @@
 .p4105 .adventurepage a:visited {
     color: #06f!important;
 }
-.p4811 {
+.p4812 {
     padding: 0!important;
     background: #000;
 }
-.p4811>* {
+.p4812>* {
     background: #000!important;
     margin: 0 auto!important;
     padding: 0!important;
 }
-.p4811 #adventureprofile,
-.p4811 footer,
-.p4811 header {
+.p4812 #adventureprofile,
+.p4812 footer,
+.p4812 header {
     display: none!important;
 }
-.p4811 #articleholder,
-.p4811 #main,
-.p4811 #slide,
-.p4811 #slide .panel,
-.p4811 #text1,
-.p4811 .panel,
-.p4811 embed {
+.p4812 #articleholder,
+.p4812 #main,
+.p4812 #slide,
+.p4812 #slide .panel,
+.p4812 #text1,
+.p4812 .panel,
+.p4812 embed {
     background: #000!important;
     border: 0!important;
     height: 650px!important;
@@ -151,7 +151,7 @@
     padding: 0!important;
     width: 950px!important;
 }
-.p4811 #slide>:not(.panel) {
+.p4812 #slide>:not(.panel) {
     display: none!important;
 }
 .p3761-4077 body {
