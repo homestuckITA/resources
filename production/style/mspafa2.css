@@ -28,99 +28,99 @@
 .narrative-prompt .caligreen {
     color: #2ed73a;
 }
-.p4078 {
+.p4079 {
     background: #0707ec;
     font-family: Comic Sans MS;
     font-size: 14px;
 }
-.p4078 #adventureprofile a,
-.p4078 #adventureprofile a:hover,
-.p4078 #adventureprofile a:visited,
-.p4078 .adventurepage a,
-.p4078 .adventurepage a:hover,
-.p4078 .adventurepage a:visited {
+.p4079 #adventureprofile a,
+.p4079 #adventureprofile a:hover,
+.p4079 #adventureprofile a:visited,
+.p4079 .adventurepage a,
+.p4079 .adventurepage a:hover,
+.p4079 .adventurepage a:visited {
     font-family: Comic Sans MS;
 }
-.p4078 #pagecommand {
+.p4079 #pagecommand {
     font-family: Comic Sans MS;
     font-size: 32px!important;
     padding: 6px;
     text-transform: uppercase;
 }
-.p4078 #articleholder,
-.p4078 #container2,
-.p4078 #main {
+.p4079 #articleholder,
+.p4079 #container2,
+.p4079 #main {
     background: #f400ec!important;
     padding: 0;
 }
-.p4078 #container1,
-.p4078 #container3,
-.p4078 #jumptoadventure,
-.p4078 #pagelist,
-.p4078 #viewall,
-.p4078 .adventurepage {
+.p4079 #container1,
+.p4079 #container3,
+.p4079 #jumptoadventure,
+.p4079 #pagelist,
+.p4079 #viewall,
+.p4079 .adventurepage {
     background: #14ff23!important;
 }
-.p4078 #jumptoadventure {
+.p4079 #jumptoadventure {
     border-color: #14ff23;
 }
-.p4078 header>:not(nav) {
+.p4079 header>:not(nav) {
     display: none!important;
 }
-.p4078 .spacing.heart {
+.p4079 .spacing.heart {
     background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31dfd272-acc5-4e8f-8534-4b4f36b8da13/de7v4f8-b496b88f-fe30-48f5-8322-fec8aba7673e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzFkZmQyNzItYWNjNS00ZThmLTg1MzQtNGI0ZjM2YjhkYTEzXC9kZTd2NGY4LWI0OTZiODhmLWZlMzAtNDhmNS04MzIyLWZlYzhhYmE3NjczZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.IslvAengSJ0IINvqjvyU0zK16M3UDKHpta9ogmTpXSY) center center no-repeat!important;
     padding: 0 10px;
 }
-.p4078 .spacing.heart img {
+.p4079 .spacing.heart img {
     display: none!important;
 }
-.p4105 body {
+.p4106 body {
     background: #000!important;
 }
-.p4105 #articleholder,
-.p4105 #container2,
-.p4105 #main {
+.p4106 #articleholder,
+.p4106 #container2,
+.p4106 #main {
     background: #262626!important;
 }
-.p4105 #main {
+.p4106 #main {
     padding: 0!important;
     width: 960px!important;
 }
-.p4105 #slide {
+.p4106 #slide {
     width: 100%!important;
 }
-.p4105 #container1,
-.p4105 #container3,
-.p4105 #jumptoadventure,
-.p4105 #pagelist,
-.p4105 #viewall,
-.p4105 .adventurepage {
+.p4106 #container1,
+.p4106 #container3,
+.p4106 #jumptoadventure,
+.p4106 #pagelist,
+.p4106 #viewall,
+.p4106 .adventurepage {
     background: #262626!important;
     color: #fff;
 }
-.p4105 #jumptoadventure {
+.p4106 #jumptoadventure {
     border-color: #262626;
 }
-.p4105 #pagecommand,
-.p4105 header>:not(nav) {
+.p4106 #pagecommand,
+.p4106 header>:not(nav) {
     display: none!important;
 }
-.p4105 embed {
+.p4106 embed {
     height: 600px!important;
     width: 950px!important;
 }
-.p4105 #imgtitle {
+.p4106 #imgtitle {
     cursor: pointer;
     left: 0;
     position: absolute;
     top: 0;
 }
-.p4105 #adventureprofile a,
-.p4105 #adventureprofile a:hover,
-.p4105 #adventureprofile a:visited,
-.p4105 .adventurepage a,
-.p4105 .adventurepage a:hover,
-.p4105 .adventurepage a:visited {
+.p4106 #adventureprofile a,
+.p4106 #adventureprofile a:hover,
+.p4106 #adventureprofile a:visited,
+.p4106 .adventurepage a,
+.p4106 .adventurepage a:hover,
+.p4106 .adventurepage a:visited {
     color: #06f!important;
 }
 .p4812 {
@@ -151,64 +151,64 @@
     padding: 0!important;
     width: 950px!important;
 }
-.p3761-4077 body {
+.p3761-4078 body {
     background-color: #000!important;
 }
-.p3761-4077 #slide .spoiler.open,
-.p3761-4077 #slide .spoiler.closed {
+.p3761-4078 #slide .spoiler.open,
+.p3761-4078 #slide .spoiler.closed {
     background-color: #000!important;
 }
-.p3761-4077 #adventureprofile a,
-.p3761-4077 #adventureprofile a:hover,
-.p3761-4077 #adventureprofile a:visited,
-.p3761-4077 .adventurepage a,
-.p3761-4077 .adventurepage a:hover,
-.p3761-4077 .adventurepage a:visited,
-.p3761-4077 #container a,
-.p3761-4077 #container a:hover,
-.p3761-4077 #container a:visited,
-.p3761-4077 footer a,
-.p3761-4077 footer a:hover,
-.p3761-4077 footer a:visited {
+.p3761-4078 #adventureprofile a,
+.p3761-4078 #adventureprofile a:hover,
+.p3761-4078 #adventureprofile a:visited,
+.p3761-4078 .adventurepage a,
+.p3761-4078 .adventurepage a:hover,
+.p3761-4078 .adventurepage a:visited,
+.p3761-4078 #container a,
+.p3761-4078 #container a:hover,
+.p3761-4078 #container a:visited,
+.p3761-4078 footer a,
+.p3761-4078 footer a:hover,
+.p3761-4078 footer a:visited {
     color: #2cff4b!important;
 }
 
-.p3761-4077 #articleholder,
-.p3761-4077 #container,
-.p3761-4077 #main {
+.p3761-4078 #articleholder,
+.p3761-4078 #container,
+.p3761-4078 #main {
     background: #082a00!important;
     padding: 0;
 }
-.p3761-4077 #container1,
-.p3761-4077 #container3,
-.p3761-4077 #jumptoadventure,
-.p3761-4077 #pagelist,
-.p3761-4077 #viewall,
-.p3761-4077 #slide,
-.p3761-4077 #info .spoiler.open,
-.p3761-4077 .adventurepage {
+.p3761-4078 #container1,
+.p3761-4078 #container3,
+.p3761-4078 #jumptoadventure,
+.p3761-4078 #pagelist,
+.p3761-4078 #viewall,
+.p3761-4078 #slide,
+.p3761-4078 #info .spoiler.open,
+.p3761-4078 .adventurepage {
     background-color: #0e4603!important;
     color: #fff;
 }
-.p3761-4077 #jumptoadventure {
+.p3761-4078 #jumptoadventure {
     border-color: #0e4603;
 }
-.p3761-4077 header>:not(nav) {
+.p3761-4078 header>:not(nav) {
     display: none!important;
 }
-.p3761-4077 nav a,
-.p3761-4077 nav a:hover,
-.p3761-4077 nav a:visited {
+.p3761-4078 nav a,
+.p3761-4078 nav a:hover,
+.p3761-4078 nav a:visited {
     color: #fff!important;
 }
-.p3761-4077 .spacing.heart {
+.p3761-4078 .spacing.heart {
     background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/31dfd272-acc5-4e8f-8534-4b4f36b8da13/de7v4f8-b496b88f-fe30-48f5-8322-fec8aba7673e.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvMzFkZmQyNzItYWNjNS00ZThmLTg1MzQtNGI0ZjM2YjhkYTEzXC9kZTd2NGY4LWI0OTZiODhmLWZlMzAtNDhmNS04MzIyLWZlYzhhYmE3NjczZS5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.IslvAengSJ0IINvqjvyU0zK16M3UDKHpta9ogmTpXSY) center center no-repeat!important;
     padding: 0 10px;
 }
-.p3761-4077 .spacing.heart img {
+.p3761-4078 .spacing.heart img {
     display: none!important;
 }
-.p3761-4077 nav {
+.p3761-4078 nav {
     padding-top: 180px!important;
 }
 .p4078 #container1,
