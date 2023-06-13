@@ -555,38 +555,38 @@
 }
 /*DOUBLEPAGE*/
 
-.p5778-5917 .dleft, .p5778-5917 .dright {
+.p5785-5924 .dleft, .p5785-5924 .dright {
     width: 650px; 
     float: left; 
     background: #EEEEEE; 
     margin-top: 7px;
 }
-.p5778-5917 .dleft {
+.p5785-5924 .dleft {
     margin-left: 165px;
 }
-.p5778-5917 .dright {
+.p5785-5924 .dright {
     margin-right: 165px;
     float: right;
 }
-.p5778-5917 #main, .p5778-5917 #slide {
+.p5785-5924 #main, .p5785-5924 #slide {
     max-width: none; 
     width: 1660px; 
     margin: 0 auto; 
     padding: 0; 
     background: #c6c6c6;
 }
-.p5778-5917 #command {
+.p5785-5924 #command {
     display: none;
 }
-.p5778-5917 .dleft #command, .p5778-5917 .dright #command {
+.p5785-5924 .dleft #command, .p5785-5924 .dright #command {
     display: block;
 }
-.p5778-5917 #foot {
+.p5785-5924 #foot {
     background: #EEEEEE;
     margin: 0 165px;
     padding: 0 10px;
 }
-.p5778-5917 .dleft #foot, .p5778-5917 .dright #foot {
+.p5785-5924 .dleft #foot, .p5785-5924 .dright #foot {
     margin: 0  20px!important;
     text-align: left;
 
