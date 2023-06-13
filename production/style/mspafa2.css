@@ -494,53 +494,53 @@
 
 /* Trickster Mode Theme */
 
-.p5704-5767 body {
-    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/Z2.gif");
+.p5711-5774 body {
+    background: url("https://www.homestuck.com/images/trickster_sitegraphics/Z2.gif");
     color: #f9fd6b;
 }
-.p5704-5767 a:link {
+.p5711-5774 a:link {
     color: #fb060b;
 }
-.p5704-5767 a:visited {
+.p5711-5774 a:visited {
     color: #ffa800;
 }
-.p5704-5767 a:active {
+.p5711-5774 a:active {
     color: #ff0000;
 }
-.p5704-5767 #main {
-    background: url("http://mspaintadventures.com/images/trickster_sitegraphics/bluetile.gif");
+.p5711-5774 #main {
+    background: url("https://www.homestuck.com/images/trickster_sitegraphics/bluetile.gif");
 }
-.p5704-5767 #flashytitle {
+.p5711-5774 #flashytitle {
     background-color: #ff73fd;
 }
-.p5704-5767 nav {
+.p5711-5774 nav {
     background-color: #000000;
     color: #ffffff;
 }
-.p5704-5767 nav .heart {
+.p5711-5774 nav .heart {
     background-image: url("https://dl.dropboxusercontent.com/s/z14lmpvdlfmrvao/CandyCornItem.png");
 }
-.p5704-5767 #dialog {
+.p5711-5774 #dialog {
     background-color: #ff73fd;
 }
-.p5704-5767 #dialog > div:nth-child(1) {
+.p5711-5774 #dialog > div:nth-child(1) {
     background-color: #3fe000;
 }
-.p5704-5767 .mspfalogo {
+.p5711-5774 .mspfalogo {
     border-right-color: #3fe000;
     background-color: #ff73fd;
 }
-.p5704-5767 table.container {
+.p5711-5774 table.container {
     border-color: #3fe000;
     background-color: #ff73fd;
 }
-.p5704-5767 table.container > tbody > tr > td, table.container > tbody > tr > th {
+.p5711-5774 table.container > tbody > tr > td, table.container > tbody > tr > th {
     border-color: #3fe000;
 }
-.p5704-5767 #slide {
+.p5711-5774 #slide {
     background-color: #ff73fd;
 }
-.p5704-5767 #info > span > .spoiler.open {
+.p5711-5774 #info > span > .spoiler.open {
     background-color: #ff73fd;
 
 }
