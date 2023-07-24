@@ -542,7 +542,6 @@
 }
 .p5711-5774 #info > span > .spoiler.open {
     background-color: #ff73fd;
-
 }
 /*AUTHORLOG*/
 
@@ -591,4 +590,52 @@
     text-align: left;
 
 }
+/*CALIBORN PAGES*/
 
+.p6240-6273 body {
+    background-color: #042300;
+    color: #2ED73A;
+}
+.p6240-6273 #main {
+    background-color: #168500;
+    color: #2ED73A;
+}
+.p6240-6273 a:link {
+    color: #2ED73A;
+}
+.p6240-6273 a:visited {
+    color: #2ED73A;
+}
+.p6240-6273 a:active {
+    color: #2ED73A;
+}
+.p6240-6273 nav {
+    background-color: #042300;
+    color: #2ED73A;
+}
+.p6240-6273 nav .heart {
+    background-image: url("https://www.homestuck.com/assets/a6a6_tooth2-3664eaf6cf64c8e5441a47abbf2642b7a61225b67a192d3a53f1bee5f333eb3b.gif");
+}
+.p6240-6273 #dialog {
+    background-color: #168500;
+}
+.p6240-6273 #dialog > div:nth-child(1) {
+    background-color: #168500;
+}
+.p6240-6273 .mspfalogo {
+    border-right-color: #042300;
+    background-color: #042300;
+}
+.p6240-6273 table.container {
+    border-color: #042300;
+    background-color: #042300;
+}
+.p6240-6273 table.container > tbody > tr > td, table.container > tbody > tr > th {
+    border-color: #042300;
+}
+.p6240-6273 #slide {
+    background-color: #042300;
+}
+.p6240-6273 #info > span > .spoiler.open {
+    background-color: #168500;
+}
