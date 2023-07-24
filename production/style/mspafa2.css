@@ -610,28 +610,28 @@
     color: #2ED73A;
 }
 .p6240-6273 nav {
-    background-color: #042300;
+    background-color: #073C00;
     color: #2ED73A;
 }
 .p6240-6273 nav .heart {
     background-image: url("https://www.homestuck.com/assets/a6a6_tooth2-3664eaf6cf64c8e5441a47abbf2642b7a61225b67a192d3a53f1bee5f333eb3b.gif");
 }
 .p6240-6273 #dialog {
-    background-color: #168500;
+    background-color: #073C00;
 }
 .p6240-6273 #dialog > div:nth-child(1) {
-    background-color: #168500;
+    background-color: #073C00;
 }
 .p6240-6273 .mspfalogo {
     border-right-color: #042300;
     background-color: #042300;
 }
 .p6240-6273 table.container {
-    border-color: #042300;
-    background-color: #042300;
+    border-color: #073C00;
+    background-color: #073C00;
 }
 .p6240-6273 table.container > tbody > tr > td, table.container > tbody > tr > th {
-    border-color: #042300;
+    border-color: #073C00;
 }
 .p6240-6273 #slide {
     background-color: #042300;
