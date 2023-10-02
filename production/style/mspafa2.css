@@ -29,7 +29,7 @@
     color: #2ed73a;
 }
 .p4079 {
-    background: #0707ec;
+    background: #0707EC;
     font-family: Comic Sans MS;
     font-size: 14px;
 }
@@ -477,9 +477,17 @@
 .p4052 nav {
     background: url(https://www.homestuck.com/images/storyfiles/hs2/scratch/room91.gif) top left no-repeat #000!important;
 }
-.p4105 nav {
-    background: url(https://www.homestuck.com/images/images/header_cascade.gif) top left no-repeat #000!important;
+.p4106 nav {
+    background: url(
+https://www.homestuck.com/assets/header_cascade-a5fd90ba48d8e40a7147c58ca06e59abdb0ffb66c797e1f53525f31d388dfcec.gif) top left no-repeat #000!important;
     padding-top: 180px!important
+}
+.p4106 .adventurepage {
+    background-color: #262626!important;
+    color: #0066FF;
+}
+.p4106 a:link {
+    color: #0066FF;
 }
 
 /*Stretch through the page*/
