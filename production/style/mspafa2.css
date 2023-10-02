@@ -123,6 +123,13 @@
 .p4106 .adventurepage a:visited {
     color: #06f!important;
 }
+.p4106 .adventurepage {
+    background-color: #262626!important;
+    color: #0066FF;
+}
+.p4106 a:link {
+    color: #0066FF;
+}
 .p4812 {
     padding: 0!important;
     background: #000;
@@ -482,23 +489,13 @@
 https://www.homestuck.com/assets/header_cascade-a5fd90ba48d8e40a7147c58ca06e59abdb0ffb66c797e1f53525f31d388dfcec.gif) top left no-repeat #000!important;
     padding-top: 180px!important
 }
-.p4106 .adventurepage {
-    background-color: #262626!important;
-    color: #0066FF;
-}
-.p4106 a:link {
-    color: #0066FF;
-}
 
 /*Stretch through the page*/
 
-.p5488 #command { 
+.p5492 header > nav { 
     display: none;
 }
-.p5488 header > nav { 
-    display: none;
-}
-.p5488 #foot { 
+.p5492 #foot { 
     display: none;
 }
 .p5770 #command { 
